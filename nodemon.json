@@ -1,0 +1,7 @@
+{
+  "watch": ["."],
+  "ext": "js",
+  "execMap": {
+    "js": "node server.js"
+  }
+}

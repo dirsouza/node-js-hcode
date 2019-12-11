@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_hcode",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS da HCode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L server.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Diogo Souza",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
