@@ -1,2 +1,2 @@
-# node-js-hcode
+# NodeJS HCode
 Curso de NodeJS HCode
