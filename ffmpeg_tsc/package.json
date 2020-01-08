@@ -1,0 +1,27 @@
+{
+  "name": "ffmpeg_nodejs_typescript",
+  "version": "1.0.0",
+  "description": "FFmpeg com Typescript",
+  "keywords": [
+    "ts",
+    "js"
+  ],
+  "main": "src/index.ts",
+  "repository": "https://github.com/dirsouza/ffmpeg-nodejs-tsc.git",
+  "scripts": {
+    "start": "nodemon -L"
+  },
+  "author": {
+    "name": "Diogo Souza",
+    "email": "diogo.souza@msn.com",
+    "url": "https://github.com/dirsouza"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.1.4",
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.0",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.4"
+  }
+}
